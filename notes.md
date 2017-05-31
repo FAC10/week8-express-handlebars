@@ -72,7 +72,7 @@
 
 - 10:00 - 12:00 - Workshop 06: OAuth integration
 
-- 11:00 - 13:00 - Projects
+- 12:00 - 13:00 - Projects
 
 — LUNCH —
 
